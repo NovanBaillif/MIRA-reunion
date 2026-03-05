@@ -199,7 +199,7 @@ If you use MIRA propositions in your work:
 @misc{mira2026,
   title  = {Mycelium Networks as Gravitational-Weight Quantum Substrates:
             Six Theoretical Propositions for Fungal AGI Computing},
-  author = {[Author], Reunion Island, France},
+  author = [Novan BAILLIF, Reunion Island, France},
   year   = {2026},
   url    = {https://github.com/MIRA-reunion},
   note   = {arXiv preprint, March 2026}
